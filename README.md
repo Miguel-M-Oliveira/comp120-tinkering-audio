@@ -8,11 +8,6 @@ of settings should be made available and configurable by a designer.
 
 
 ## GNU General Public License v3.0
-General Public License states for permissions over material for public Commercial use,
-modification, distribution, and patent and private use. It does not, however, state for
-material liability and warranty. Due to the nature of noted repository material, Commerial
-manipulation is free for use, encouraging that created work can be used by anyone that wishes.
-This repository work is intended for University project submission and therefore is not restricted 
-for use under company or contractual obligations.
-Use of Contract #1 may be used by varying game developers, most probably by beginning developers
-due to the nature of said license allowing free use of created material.
+The GNU General Public License is a free, copyleft license for software and other kinds of works.
+This repository work is intended for a university project and therefore is not restricted for use
+under company or contractual obligations.

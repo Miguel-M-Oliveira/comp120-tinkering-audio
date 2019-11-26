@@ -1,4 +1,6 @@
-The current program in this repository is only a test intended for the peer-review, it does not represent the final project. All audio and images being used are temporary and are not owned by me.
+The current program in this repository is only an early test intended for the peer-review, it does not represent the final project. All audio and images being used are temporary and are not owned by me.
+The program does not achieve its intended purpose yet, as of now it is just a menu with background music and sounds for some of the buttons.
+
 
 ## Miguel Oliveira - Contract #4: User Interface Audio (Non-Diegetic Audio):
 You need to develop a tool to generate audio for the user interface. These

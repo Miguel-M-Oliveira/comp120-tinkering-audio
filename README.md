@@ -13,4 +13,4 @@ This repository work is intended for a university project and therefore is not r
 under company or contractual obligations.
 
 
-# All sounds used in the program were taken from www.freesound.org, and are covered under the CC0 license, allowing them to be used for free.
+### All sounds used in the program were taken from www.freesound.org, and are covered under the CC0 license, allowing them to be used for free.

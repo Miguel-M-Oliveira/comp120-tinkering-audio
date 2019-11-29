@@ -11,3 +11,6 @@ of settings should be made available and configurable by a designer.
 The GNU General Public License is a free, copyleft license for software and other kinds of works.
 This repository work is intended for a university project and therefore is not restricted for use
 under company or contractual obligations.
+
+
+All sounds used in the program were taken from www.freesound.org, and are covered under the CC0 license, allowing them to be used for free.
